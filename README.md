@@ -53,3 +53,7 @@
 # Test 5 — Supprimer l’étudiant:
 
 <img width="1914" height="968" alt="Image" src="https://github.com/user-attachments/assets/6a773a93-eb91-486d-8eee-9061fc6658ab" />
+
+## La base de donnée:
+<img width="977" height="550" alt="image" src="https://github.com/user-attachments/assets/68aa5c43-90c6-4bc9-b5fe-0a19e890a86f" />
+
